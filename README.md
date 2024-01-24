@@ -21,8 +21,9 @@
 
 ## 構建和編譯
 
-1. 在 STM32CubeIDE 中打開 .cproject
-2. 編譯並燒寫至您的微控制器
+1. 將資料夾放入 STM32CubeIDE 的 WorkSpace 中
+2. 在 STM32CubeIDE 中打開 .cproject
+3. 編譯並燒寫至您的微控制器
 
 ## 使用方法
 
